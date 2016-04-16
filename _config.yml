@@ -1,0 +1,28 @@
+name: hotFuss
+favicon: null
+layout_spectrum: 0.1800653573591262
+typography_spectrum: 0.6136470418423414
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.838135477155447
+  lightness: 0.7386389900930226
+  saturation: 0.7691934364847839
+  rhythmicContrast: 0.5239797446411103
+purpose: []
